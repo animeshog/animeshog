@@ -1,4 +1,33 @@
-<h1 align="center">Hi 👋, I'm Animesh</h1>
+<h1 align="center">
+  <svg width="400" height="60">
+    <text x="50%" y="50%" font-size="40" font-weight="bold" text-anchor="middle" fill="black">
+      <tspan class="wave">H</tspan>
+      <tspan class="wave" style="animation-delay: 0.1s;">i</tspan>
+      <tspan class="wave" style="animation-delay: 0.2s;"> 👋</tspan>
+      <tspan class="wave" style="animation-delay: 0.3s;">,</tspan>
+      <tspan class="wave" style="animation-delay: 0.4s;"> I</tspan>
+      <tspan class="wave" style="animation-delay: 0.5s;">'</tspan>
+      <tspan class="wave" style="animation-delay: 0.6s;">m</tspan>
+      <tspan class="wave" style="animation-delay: 0.7s;"> A</tspan>
+      <tspan class="wave" style="animation-delay: 0.8s;">n</tspan>
+      <tspan class="wave" style="animation-delay: 0.9s;">i</tspan>
+      <tspan class="wave" style="animation-delay: 1s;">m</tspan>
+      <tspan class="wave" style="animation-delay: 1.1s;">e</tspan>
+      <tspan class="wave" style="animation-delay: 1.2s;">s</tspan>
+      <tspan class="wave" style="animation-delay: 1.3s;">h</tspan>
+    </text>
+  </svg>
+  <style>
+    .wave {
+      display: inline-block;
+      animation: wave 1.5s infinite;
+    }
+    @keyframes wave {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+  </style>
+</h1>
 <h3 align="center">I'm passionate for Web Dev & Mobile Dev</h3>
 
 - 🔭 I’m currently working on [CutTheQ](https://github.com/iamnithishraja/cut-the-queue.git)
