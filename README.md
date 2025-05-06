@@ -6,7 +6,7 @@
 <h3 align="center">A Passionate Web & Mobile Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&width=435&lines=Full-stack+Developer;React+Native+Enthusiast;Lover+of+Clean+Code+and+Photography" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=350&lines=Full-stack+Developer;React+Native+Enthusiast;Clean+Coder+%26+Photographer" alt="Typing SVG" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,flutter,dart,androidstudio,java,nodejs,express,mongodb,mysql,python,c,cs,aws,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,android,flutter,dart,nodejs,express,mongodb,mysql,python,java,c,cs,aws,git" />
 </p>
 
 ---
