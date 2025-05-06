@@ -1,40 +1,35 @@
-<h1 align="center">
-  Hey there! I'm Animesh 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-</h1>
-
-<h3 align="center">A Passionate Web & Mobile Developer from India</h3>
+<h1 align="center">Hi there, I'm Animesh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=350&lines=Full-stack+Developer;React+Native+Enthusiast;Clean+Coder+%26+Photographer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=450&lines=Web+%26+Mobile+Developer;React+Native+Enthusiast;Clean+Coder+%26+Photographer" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **[CutTheQ](https://github.com/iamnithishraja/cut-the-queue.git)**
-- 🌱 I’m learning **React Native**
-- 💬 Ask me about **Code & Photography**
+### 🔥 About Me
+
+- 🔭 I’m currently building **[CutTheQ](https://github.com/iamnithishraja/cut-the-queue.git)**
+- 🌱 Learning **React Native**
+- 💬 Ask me about **Web Dev, Mobile Dev, and Photography**
 - 📫 Reach me at **animeshshaw69@gmail.com**
 
 ---
 
-### Connect with Me
+### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://twitter.com/_animesh69" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/animesh.wav" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="https://twitter.com/_animesh69" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/animesh.wav" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 💻 Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,android,flutter,dart,nodejs,express,mongodb,mysql,python,java,c,cs,aws,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart,nodejs,express,mongodb,mysql,python,java,c,cs,aws,git,vscode" />
+  <br />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" title="Android Studio" alt="Android Studio" width="40" height="40" />
 </p>
 
 ---
@@ -42,19 +37,22 @@
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=radical" alt="Animesh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&border_radius=10" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshog&theme=tokyonight&border_radius=10" width="45%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshog&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&border_radius=10" width="50%" />
 </p>
 
 ---
 
 ### ✨ Fun Fact
 
-> “You can find me either debugging code or framing shots through my lens.”
+> "You can find me either debugging bugs or framing shots through my lens."
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" />
+</p>
