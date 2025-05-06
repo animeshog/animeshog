@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Code & Photography**
 
-- 📫 How to reach me **anni.blr@proton.me**
+- 📫 How to reach me **anni.blr@proton.me** / **animeshshaw69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
