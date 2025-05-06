@@ -29,7 +29,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart,nodejs,express,mongodb,mysql,python,java,c,cs,aws,git,vscode" />
   <br />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" title="Android Studio" alt="Android Studio" width="40" height="40" />
 </p>
 
 ---
