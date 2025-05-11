@@ -12,6 +12,8 @@
 - 🌱 Learning **React Native**
 - 💬 Ask me about **Web Dev, Mobile Dev, and Photography**
 - 📫 Reach me at **animeshshaw69@gmail.com**
+- 📃 Portfolio 
+**animeshxdev.netlify.app**
 
 ---
 
