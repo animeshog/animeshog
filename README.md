@@ -12,16 +12,23 @@
 - 🌱 Learning **React Native**
 - 💬 Ask me about **Web Dev, Mobile Dev, and Photography**
 - 📫 Reach me at **animeshshaw69@gmail.com**
-- 📃 Portfolio 
-**https://animeshxdev.netlify.app**
+- 📃 Portfolio  
+  **https://animeshxdev.netlify.app**
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/_animesh69" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/animesh.wav" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/_animesh69" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/animesh.wav" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://animeshxdev.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
 
 ---
