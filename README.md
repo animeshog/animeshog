@@ -35,7 +35,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart,nodejs,express,mongodb,mysql,python,java,c,cs,aws,git,vscode" />
-  <br />
 </p>
 
 ---
