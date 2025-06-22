@@ -2,10 +2,6 @@
 
 <h3 align="center">Web & Mobile Dev | React Native Enthusiast | Clean Coder | Photographer 📸</h3>
 
-<p align="center">
-  <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=440&lines=TypeScript+is+❤️;React+Native+dev+on+fire;Pixel-perfect+UIs+everyday;Coffee+%2B+Code+%3D+Me" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -47,10 +43,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&border_radius=12" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshog&theme=tokyonight&border_radius=12" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&border_radius=12" width="50%" />
 </p>
 
 ---
