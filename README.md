@@ -32,7 +32,7 @@
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,reactnative,nodejs,express,mongodb,flutter,dart,python,java,c,cs,mysql,aws,git,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,express,mongodb,flutter,dart,python,java,c,cs,mysql,aws,git,vscode,figma,linux" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&border_radius=12" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshog&theme=tokyonight&border_radius=12" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=animeshog&count_private=true&show=contribs&show_icons=false&hide_title=true&theme=tokyonight&custom_title=Contributions&include_all_commits=true" width="47%" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 Contribution Graph (via GitHub Readme Stats)
+### 📊 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&langs_count=8" width="50%"/>
