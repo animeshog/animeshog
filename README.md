@@ -3,7 +3,7 @@
 <h3 align="center">Web & Mobile Dev | React Native Enthusiast | Clean Coder | Photographer 📸</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;React+Native+Lover;Clean+Code+Advocate;Weekend+Photographer+%F0%9F%93%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Full-stack+Developer;React+Native+Lover;Clean+Code+Advocate;Weekend+Photographer+%F0%9F%93%B8" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 🌱 Learning: **React Native**, **Backend scaling**, and **DevOps**
 - ⚙️ Tech I use daily: `.tsx`, `.js`, `.py`, `.md`, `.json`
 - 📸 On weekends: **Shooting portraits | Editing reels**
-- 🧠 Currently diving deep into: **Microservices & Cloud infrastructure**
+- 🧠 Diving into: **Microservices & Cloud infrastructure**
 - 📫 Reach me at: **animeshshaw69@gmail.com**
 
 ---
@@ -37,15 +37,11 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&border_radius=12" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshog&theme=tokyonight&border_radius=12&dates=7" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=animeshog&theme=tokyonight&area=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshog&theme=tokyonight&border_radius=12" width="47%" />
 </p>
 
 ---
@@ -53,15 +49,15 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=animeshog&theme=tokyonight&no-bg=true&margin-w=15&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=animeshog&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
 
 ---
 
-### 📅 Contribution Calendar
+### 📊 Contribution Graph (via GitHub Readme Stats)
 
 <p align="center">
-  <img src="https://github.com/animeshog/animeshog/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&langs_count=8" width="50%"/>
 </p>
 
 ---
