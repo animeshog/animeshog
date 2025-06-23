@@ -2,30 +2,29 @@
 
 <h3 align="center">Web & Mobile Dev | React Native Enthusiast | Clean Coder | Photographer 📸</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+Developer;React+Native+Lover;Clean+Code+Advocate;Weekend+Photographer+%F0%9F%93%B8" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **[CutTheQ](https://github.com/iamnithishraja/cut-the-queue.git)**
-- 🌱 Learning **React Native & Backend scaling**
-- ⚙️ I use daily: `.tsx`, `.js`, `.py`, `.md`
-- 📸 On weekends: **Shooting portraits & editing reels**
-- 📫 Reach me at **animeshshaw69@gmail.com**
+- 🔭 Currently building: **[CutTheQ](https://github.com/iamnithishraja/cut-the-queue.git)**
+- 🌱 Learning: **React Native**, **Backend scaling**, and **DevOps**
+- ⚙️ Tech I use daily: `.tsx`, `.js`, `.py`, `.md`, `.json`
+- 📸 On weekends: **Shooting portraits | Editing reels**
+- 🧠 Currently diving deep into: **Microservices & Cloud infrastructure**
+- 📫 Reach me at: **animeshshaw69@gmail.com**
 
 ---
 
-### 🌍 Connect With Me
+### 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://twitter.com/_animesh69" target="_blank">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/animesh.wav" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://animeshxdev.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+  <a href="https://twitter.com/_animesh69" target="_blank"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://instagram.com/animesh.wav" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://animeshxdev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
@@ -33,23 +32,43 @@
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,reactnative,nodejs,express,mongodb,flutter,dart,python,java,c,cs,mysql,aws,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,reactnative,nodejs,express,mongodb,flutter,dart,python,java,c,cs,mysql,aws,git,vscode,figma,linux" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&border_radius=12" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshog&theme=tokyonight&border_radius=12" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshog&theme=tokyonight&border_radius=12&dates=7" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=animeshog&theme=tokyonight&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=animeshog&theme=tokyonight&no-bg=true&margin-w=15&row=2&column=4" />
+</p>
+
+---
+
+### 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://github.com/animeshog/animeshog/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
 
 ### 🎯 Fun Fact
 
-> "You can find me either debugging bugs or framing shots through my lens."
+> "You’ll either find me debugging late-night bugs or clicking golden hour portraits."
 
 ---
 
