@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://twitter.com/_animesh69" target="_blank"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://instagram.com/animesh.wav" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/animeshx1" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://animeshxdev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
