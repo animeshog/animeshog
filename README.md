@@ -1,15 +1,19 @@
 <div align="center">
 
-# Hi, I'm Animesh Shaw 👋
+# Hi 👋, I'm Animesh Shaw
 
-### Full-Stack Developer • React Native • AI Enthusiast • Photographer
+### Full-Stack Developer • React Native • AI Enthusiast • Photographer 📸
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=800&center=true&vCenter=true&width=650&lines=Building+Scalable+Applications;React+Native+Developer;Backend+%7C+Cloud+%7C+AI;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+Native+Developer;Backend+%7C+Cloud+Enthusiast;Building+AI+Powered+Applications;Always+Learning+Something+New" />
 
-<br>
+<br><br>
 
 <a href="https://animeshxdev.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="mailto:animeshshaw69@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/animeshx1">
@@ -20,9 +24,9 @@
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="mailto:animeshshaw69@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=animeshog&label=Profile%20Views&color=58A6FF&style=flat-square"/>
 
 </div>
 
@@ -30,46 +34,60 @@
 
 # 🚀 About Me
 
-```ts
+```typescript
 const animesh = {
-    location: "India 🇮🇳",
+    name: "Animesh Shaw",
     role: "Full-Stack Developer",
-    currentlyBuilding: "CutTheQ",
-    learning: [
-        "React Native",
-        "System Design",
-        "Cloud Infrastructure",
+
+    currentlyBuilding: [
+        "CutTheQ",
         "AI Applications"
     ],
-    interests: [
-        "Backend Development",
-        "Mobile Apps",
-        "Photography",
-        "UI/UX"
+
+    currentlyLearning: [
+        "React Native",
+        "System Design",
+        "Cloud",
+        "Microservices"
     ],
-    motto: "Build. Learn. Improve. Repeat."
+
+    askMeAbout: [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express",
+        "Mobile Apps"
+    ],
+
+    hobbies: [
+        "Photography",
+        "Editing",
+        "Travel"
+    ],
+
+    motto: "Keep Building 🚀"
 }
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,mysql,python,java,aws,git,github,vscode,linux,figma,tailwind,html,css&perline=9"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,mysql,python,java,html,css,tailwind,git,github,aws,vscode,figma,linux&perline=9"/>
 
 </div>
 
 ---
 
-# 📌 Featured Project
+# 🚀 Featured Project
 
-### 🚀 CutTheQ
+## 🎯 CutTheQ
 
-A smart queue management platform that streamlines food ordering and reduces waiting time through a seamless digital experience.
+A smart digital queue management system that helps restaurants reduce waiting time and improve customer experience.
 
-**Tech Stack**
+**Tech Used**
 
 `React` • `Node.js` • `Express` • `MongoDB` • `JWT`
 
@@ -79,9 +97,9 @@ A smart queue management platform that streamlines food ordering and reduces wai
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=animeshog&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=animeshog&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -89,17 +107,17 @@ A smart queue management platform that streamlines food ordering and reduces wai
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=animeshog&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=animeshog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -115,11 +133,41 @@ A smart queue management platform that streamlines food ordering and reduces wai
 
 ---
 
-# 💭 Quote
+# ⚡ Current Focus
+
+```text
+📱 React Native Development
+
+🤖 AI Powered Applications
+
+☁️ Cloud Infrastructure
+
+⚙️ Backend Engineering
+
+📷 Photography
+```
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
-> *"Great software isn't just written. It's designed, refined, and continuously improved."*
+<a href="https://animeshxdev.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge"/>
+</a>
+
+<a href="mailto:animeshshaw69@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
+
+<a href="https://instagram.com/animeshx1">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge"/>
+</a>
+
+<a href="https://twitter.com/_animesh69">
+<img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge"/>
+</a>
 
 </div>
 
@@ -127,8 +175,22 @@ A smart queue management platform that streamlines food ordering and reduces wai
 
 <div align="center">
 
-### Thanks for visiting ❤️
+## 💭 Quote
 
-<img src="https://komarev.com/ghpvc/?username=animeshog&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
+*"Code is like photography — the details create the masterpiece."*
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animeshog&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for stopping by!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=120&section=footer"/>
 
 </div>
