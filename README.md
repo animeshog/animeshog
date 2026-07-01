@@ -1,73 +1,134 @@
-<h1 align="center">Yo, I'm Animesh Shaw 👋</h1>
+<div align="center">
 
-<h3 align="center">Web & Mobile Dev | React Native Enthusiast | Clean Coder | Photographer 📸</h3>
+# Hi, I'm Animesh Shaw 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Full-stack+Developer;React+Native+Lover;Clean+Code+Advocate;Weekend+Photographer+%F0%9F%93%B8" alt="Typing SVG" />
-</p>
+### Full-Stack Developer • React Native • AI Enthusiast • Photographer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=800&center=true&vCenter=true&width=650&lines=Building+Scalable+Applications;React+Native+Developer;Backend+%7C+Cloud+%7C+AI;Always+Learning+Something+New" />
 
-### 🚀 About Me
+<br>
 
-- 🔭 Currently building: **[CutTheQ](https://github.com/iamnithishraja/cut-the-queue.git)**
-- 🌱 Learning: **React Native**, **Backend scaling**, and **DevOps**
-- ⚙️ Tech I use daily: `.tsx`, `.js`, `.py`, `.md`, `.json`
-- 📸 On weekends: **Shooting portraits | Editing reels**
-- 🧠 Diving into: **Microservices & Cloud infrastructure**
-- 📫 Reach me at: **animeshshaw69@gmail.com**
+<a href="https://animeshxdev.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
----
+<a href="https://instagram.com/animeshx1">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-### 🌍 Let's Connect
+<a href="https://twitter.com/_animesh69">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
-<p align="center">
-  <a href="https://twitter.com/_animesh69" target="_blank"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://instagram.com/animeshx1" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://animeshxdev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
+<a href="mailto:animeshshaw69@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-### 🧠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,express,mongodb,flutter,dart,python,java,c,cs,mysql,aws,git,vscode,figma,linux" />
-</p>
+</div>
 
 ---
 
-### 📈 GitHub Stats
+# 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&border_radius=12" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=animeshog&count_private=true&show=contribs&show_icons=false&hide_title=true&theme=tokyonight&custom_title=Contributions&include_all_commits=true" width="47%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=animeshog&theme=tokyonight&no-frame=true&row=2&column=4" />
-</p>
-
----
-
-### 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&langs_count=8" width="50%"/>
-</p>
-
----
-
-### 🎯 Fun Fact
-
-> "You’ll either find me debugging late-night bugs or clicking golden hour portraits."
+```ts
+const animesh = {
+    location: "India 🇮🇳",
+    role: "Full-Stack Developer",
+    currentlyBuilding: "CutTheQ",
+    learning: [
+        "React Native",
+        "System Design",
+        "Cloud Infrastructure",
+        "AI Applications"
+    ],
+    interests: [
+        "Backend Development",
+        "Mobile Apps",
+        "Photography",
+        "UI/UX"
+    ],
+    motto: "Build. Learn. Improve. Repeat."
+}
+```
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="160" />
-</p>
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,mysql,python,java,aws,git,github,vscode,linux,figma,tailwind,html,css&perline=9"/>
+
+</div>
+
+---
+
+# 📌 Featured Project
+
+### 🚀 CutTheQ
+
+A smart queue management platform that streamlines food ordering and reduces waiting time through a seamless digital experience.
+
+**Tech Stack**
+
+`React` • `Node.js` • `Express` • `MongoDB` • `JWT`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=animeshog&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=animeshog&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=animeshog&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💭 Quote
+
+<div align="center">
+
+> *"Great software isn't just written. It's designed, refined, and continuously improved."*
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting ❤️
+
+<img src="https://komarev.com/ghpvc/?username=animeshog&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
+
+</div>
