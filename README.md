@@ -4,9 +4,6 @@
 
 ### Full-Stack Developer • React Native • AI Enthusiast • Photographer 📸
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+Native+Developer;AI+Enthusiast;Backend+Developer;Always+Building+Something+Awesome+🚀" alt="Typing SVG" />
-
-<br><br>
 
 <a href="https://animeshxdev.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
