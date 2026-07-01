@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hi 👋, I'm Animesh Shaw
+# Hi 👋 I'm Animesh Shaw
 
 ### Full-Stack Developer • React Native • AI Enthusiast • Photographer 📸
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+Native+Developer;Backend+%7C+Cloud+Enthusiast;Building+AI+Powered+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+Native+Developer;Backend+Engineer;AI+Application+Builder;Always+Learning+New+Things" />
 
-<br><br>
+<br>
 
 <a href="https://animeshxdev.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="mailto:animeshshaw69@gmail.com">
@@ -26,7 +26,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=animeshog&label=Profile%20Views&color=58A6FF&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=animeshog&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
 
 </div>
 
@@ -34,38 +34,27 @@
 
 # 🚀 About Me
 
-```typescript
+```ts
 const animesh = {
-    name: "Animesh Shaw",
-    role: "Full-Stack Developer",
+  role: "Full-Stack Developer",
+  location: "India 🇮🇳",
 
-    currentlyBuilding: [
-        "CutTheQ",
-        "AI Applications"
-    ],
+  currentlyBuilding: "CutTheQ",
 
-    currentlyLearning: [
-        "React Native",
-        "System Design",
-        "Cloud",
-        "Microservices"
-    ],
+  learning: [
+    "React Native",
+    "AI",
+    "Cloud",
+    "System Design"
+  ],
 
-    askMeAbout: [
-        "React",
-        "Node.js",
-        "MongoDB",
-        "Express",
-        "Mobile Apps"
-    ],
+  interests: [
+    "Backend",
+    "Mobile Apps",
+    "Photography"
+  ],
 
-    hobbies: [
-        "Photography",
-        "Editing",
-        "Travel"
-    ],
-
-    motto: "Keep Building 🚀"
+  motto: "Keep Building 🚀"
 }
 ```
 
@@ -75,7 +64,7 @@ const animesh = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,mysql,python,java,html,css,tailwind,git,github,aws,vscode,figma,linux&perline=9"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,mysql,python,java,html,css,tailwind,aws,git,github,vscode,linux,figma&perline=9"/>
 
 </div>
 
@@ -85,21 +74,19 @@ const animesh = {
 
 ## 🎯 CutTheQ
 
-A smart digital queue management system that helps restaurants reduce waiting time and improve customer experience.
+A smart digital queue management platform designed to eliminate waiting lines using modern web technologies.
 
-**Tech Used**
+**Tech Stack**
 
 `React` • `Node.js` • `Express` • `MongoDB` • `JWT`
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=animeshog&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
 </div>
 
@@ -107,27 +94,7 @@ A smart digital queue management system that helps restaurants reduce waiting ti
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=animeshog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=animeshog&theme=tokyo-night&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -135,17 +102,11 @@ A smart digital queue management system that helps restaurants reduce waiting ti
 
 # ⚡ Current Focus
 
-```text
-📱 React Native Development
-
-🤖 AI Powered Applications
-
-☁️ Cloud Infrastructure
-
-⚙️ Backend Engineering
-
-📷 Photography
-```
+- 📱 React Native
+- 🤖 AI Applications
+- ☁️ Cloud Computing
+- ⚙️ Backend Development
+- 📸 Photography
 
 ---
 
@@ -154,7 +115,7 @@ A smart digital queue management system that helps restaurants reduce waiting ti
 <div align="center">
 
 <a href="https://animeshxdev.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 
 <a href="mailto:animeshshaw69@gmail.com">
@@ -177,19 +138,13 @@ A smart digital queue management system that helps restaurants reduce waiting ti
 
 ## 💭 Quote
 
-*"Code is like photography — the details create the masterpiece."*
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animeshog&theme=tokyonight"/>
+*"Code is like photography — the smallest details create the biggest impact."*
 
 </div>
 
 ---
 
 <div align="center">
-
-### ⭐ Thanks for stopping by!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=120&section=footer"/>
 
