@@ -1,35 +1,34 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:06B6D4&section=header"/>
+
 # Hi 👋 I'm Animesh Shaw
 
-### Full-Stack Developer • React Native • AI Enthusiast • Photographer 📸
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+Native+Developer;AI+Enthusiast;Digital+Photographer+%F0%9F%93%B8" alt="Typing SVG" /></a>
 
+<p align="center">
+  <a href="https://animeshxdev.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:animeshshaw69@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
-<a href="https://animeshxdev.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:animeshshaw69@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://x.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=animeshog&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=animeshog&label=Profile%20Views&color=06B6D4&style=for-the-badge" alt="Profile Views" />
+</p>
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 ```ts
 const animesh = {
@@ -49,49 +48,3 @@ const animesh = {
   ],
   motto: "Keep Building 🚀"
 }
-```
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,express,mongodb,mysql,python,java,aws,git,github,vscode,figma&perline=6" />
-
-</div>
-
----
-
-# 🎯 Featured Project: CutTheQ
-
-A smart digital queue management platform designed to eliminate waiting lines using modern web technologies.
-
-- **Frontend:** React
-- **Backend:** Node.js • Express
-- **Database:** MongoDB
-- **Security:** JWT Authentication
-
----
-
-# ⚡ Current Focus
-
-- 📱 **Mobile:** React Native Development
-- 🤖 **AI:** Building Intelligent Applications
-- ☁️ **Cloud:** Cloud Computing & Deployment
-- ⚙️ **Architecture:** Backend & System Design
-- 📸 **Creative:** Digital Photography
-
----
-
-<div align="center">
-
-# 💭 Quote
-
-*"Code is like photography — the smallest details create the biggest impact."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:06B6D4&section=footer"/>
-
-</div>
