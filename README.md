@@ -68,10 +68,7 @@ const animesh = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&hide_border=true"/>
-
+https://github-readme-stats-sigma-five.vercel.app/api?username=animeshog
 </div>
 
 ---
