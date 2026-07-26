@@ -1,12 +1,12 @@
-7<div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&section=header&text=Animesh%20Shaw&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&section=header&text=Hey%20Geeks&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 # 👋 Hi, I'm Animesh Shaw
 
-### Full-Stack Developer • React Native • AI Enthusiast • Photographer 📸
+### Full-Stack Developer • React Native Developer • AI Enthusiast • Photographer 📸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React+%7C+Node.js+%7C+MongoDB;React+Native+Developer;Artificial+Intelligence+Enthusiast;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React+Native+Developer;AI+Enthusiast;Backend+Developer;Always+Learning+🚀"/>
 
 <br>
 
@@ -14,13 +14,9 @@
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br>
-
 <a href="mailto:animeshshaw69@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br>
 
 <a href="https://github.com/animeshog">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -28,7 +24,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=animeshog&label=Profile+Views&style=for-the-badge&color=06B6D4"/>
+<img src="https://komarev.com/ghpvc/?username=animeshog&style=for-the-badge&color=06B6D4"/>
 
 </div>
 
@@ -36,27 +32,23 @@
 
 # ⚡ About Me
 
-```typescript
+```ts
 const animesh = {
-    role: "Full-Stack Developer",
-    location: "India 🇮🇳",
-
-    currentlyBuilding: "CutTheQ",
-
-    learning: [
-        "React Native",
-        "Artificial Intelligence",
-        "AWS Cloud",
-        "System Design"
-    ],
-
-    interests: [
-        "Backend Development",
-        "Mobile Apps",
-        "Photography"
-    ],
-
-    motto: "Keep Building 🚀"
+  role: "Full-Stack Developer",
+  location: "India 🇮🇳",
+  building: "CutTheQ",
+  learning: [
+    "React Native",
+    "Artificial Intelligence",
+    "AWS",
+    "System Design"
+  ],
+  interests: [
+    "Backend Development",
+    "Mobile Apps",
+    "Photography"
+  ],
+  motto: "Keep Building 🚀"
 }
 ```
 
@@ -72,11 +64,13 @@ const animesh = {
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=animeshog&theme=tokyo-night&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -104,26 +98,16 @@ const animesh = {
 
 ---
 
-# 📈 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/animeshog/animeshog/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
-<a href="mailto:animeshshaw69@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://animeshxdev.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://animeshxdev.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="mailto:animeshshaw69@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/animeshog">
@@ -136,7 +120,7 @@ const animesh = {
 
 <div align="center">
 
-### 💙 *"Code is like photography — the smallest details create the biggest impact."*
+### ✨ *"Code is like photography — the smallest details create the biggest impact."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:4F46E5,100:06B6D4"/>
 
