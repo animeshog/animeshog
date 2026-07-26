@@ -1,4 +1,4 @@
-<div align="center">
+7<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&section=header&text=Animesh%20Shaw&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
@@ -75,12 +75,6 @@ const animesh = {
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://streak-stats.demolab.com?user=animeshog&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animeshog&theme=tokyonight"/>
-
-<br><br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=animeshog&theme=tokyo-night&hide_border=true"/>
 
