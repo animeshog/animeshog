@@ -1,6 +1,6 @@
-8<div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&section=header&text=Hey%20Geeks&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&section=header&text=%20&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 # 👋 Hi, I'm Animesh Shaw
 
