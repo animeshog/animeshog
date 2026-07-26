@@ -48,3 +48,58 @@ const animesh = {
   ],
   motto: "Keep Building 🚀"
 }
+```
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,express,mongodb,mysql,python,java,aws,git,github,vscode,figma&perline=9" alt="Tech Stack" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true&title_color=06B6D4" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshog&theme=tokyonight&hide_border=true&stroke=0000&title_color=06B6D4&ring=06B6D4" alt="GitHub Streak" width="48%" />
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Featured Project: CutTheQ
+*A smart digital queue management platform designed to eliminate waiting lines using modern web technologies.*
+
+<br>
+
+| Frontend | Backend | Database | Security |
+| :---: | :---: | :---: | :---: |
+| React | Node.js • Express | MongoDB | JWT Auth |
+
+</div>
+
+---
+
+## ⚡ Current Focus
+
+| 📱 Mobile | 🤖 AI | ☁️ Cloud | ⚙️ Architecture | 📸 Creative |
+| :---: | :---: | :---: | :---: | :---: |
+| React Native | Intelligent Apps | AWS & Deployment | Backend & System Design | Digital Photography |
+
+---
+
+<div align="center">
+
+<br>
+
+> *"Code is like photography — the smallest details create the biggest impact."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:06B6D4&section=footer"/>
+
+</div>
