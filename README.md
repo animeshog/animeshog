@@ -71,12 +71,7 @@ const animesh = {
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=animeshog&repo=CutTheQ&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=animeshog&repo=DoctorAI&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
