@@ -1,52 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:06B6D4&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,100:06B6D4&section=header"/>
 
-# Hi 👋 I'm Animesh Shaw
+# Animesh Shaw
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+Native+Developer;AI+Enthusiast;Digital+Photographer+%F0%9F%93%B8" alt="Typing SVG" /></a>
+### Full-Stack Developer • React Native • AI Enthusiast • Photographer
 
-<p align="center">
-  <a href="https://animeshxdev.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:animeshshaw69@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;React+%7C+Node.js+%7C+MongoDB;Creating+AI-powered+applications;Always+learning+something+new+🚀"/>
+
+<p>
+<a href="https://animeshxdev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:animeshshaw69@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/animeshog"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=animeshog&label=Profile%20Views&color=06B6D4&style=for-the-badge" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=animeshog&style=for-the-badge&color=06B6D4"/>
+
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
 ```ts
 const animesh = {
   role: "Full-Stack Developer",
-  location: "India 🇮🇳",
-  currentlyBuilding: "CutTheQ",
-  learning: [
+  building: "CutTheQ",
+  focus: [
+    "React",
     "React Native",
-    "Artificial Intelligence",
+    "Node.js",
+    "Artificial Intelligence"
+  ],
+  currentlyLearning: [
+    "System Design",
     "Cloud Computing",
-    "System Design"
+    "Scalable Architectures"
   ],
-  interests: [
-    "Backend Development",
-    "Mobile Applications",
-    "Photography"
-  ],
-  motto: "Keep Building 🚀"
+  funFact: "Photography inspires the way I build products 📸"
 }
 ```
 
@@ -54,52 +45,53 @@ const animesh = {
 
 ## 💻 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,express,mongodb,mysql,python,java,aws,git,github,vscode,figma&perline=9" alt="Tech Stack" />
-</div>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,aws,git,github,vscode,figma&perline=9"/>
+
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true&title_color=06B6D4" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshog&theme=tokyonight&hide_border=true&stroke=0000&title_color=06B6D4&ring=06B6D4" alt="GitHub Streak" width="48%" />
-</div>
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=animeshog&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=animeshog&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### **CutTheQ**
+
+> Smart queue management platform designed to eliminate waiting lines through real-time tracking, secure authentication, and seamless digital experiences.
+
+**Stack**
+
+`React` • `Node.js` • `Express` • `MongoDB` • `JWT`
+
+---
+
+## 🌱 Currently Exploring
+
+- 📱 Cross-Platform Mobile Apps
+- 🤖 AI & Intelligent Systems
+- ☁️ AWS Cloud
+- ⚙️ Backend Architecture
+- 📸 Digital Photography
 
 ---
 
 <div align="center">
 
-## 🎯 Featured Project: CutTheQ
-*A smart digital queue management platform designed to eliminate waiting lines using modern web technologies.*
+### *"Great products aren't built by writing more code; they're built by solving the right problems."*
 
-<br>
-
-| Frontend | Backend | Database | Security |
-| :---: | :---: | :---: | :---: |
-| React | Node.js • Express | MongoDB | JWT Auth |
-
-</div>
-
----
-
-## ⚡ Current Focus
-
-| 📱 Mobile | 🤖 AI | ☁️ Cloud | ⚙️ Architecture | 📸 Creative |
-| :---: | :---: | :---: | :---: | :---: |
-| React Native | Intelligent Apps | AWS & Deployment | Backend & System Design | Digital Photography |
-
----
-
-<div align="center">
-
-<br>
-
-> *"Code is like photography — the smallest details create the biggest impact."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:06B6D4&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:4F46E5,100:06B6D4"/>
 
 </div>
