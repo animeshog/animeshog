@@ -1,97 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,100:06B6D4&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&section=header&text=Animesh%20Shaw&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-# Animesh Shaw
+# 👋 Hi, I'm Animesh Shaw
 
-### Full-Stack Developer • React Native • AI Enthusiast • Photographer
+### Full-Stack Developer • React Native • AI Enthusiast • Photographer 📸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;React+%7C+Node.js+%7C+MongoDB;Creating+AI-powered+applications;Always+learning+something+new+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React+%7C+Node.js+%7C+MongoDB;React+Native+Developer;Artificial+Intelligence+Enthusiast;Always+Learning+Something+New+🚀"/>
 
-<p>
-<a href="https://animeshxdev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:animeshshaw69@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/animeshog"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=animeshog&style=for-the-badge&color=06B6D4"/>
+<a href="https://animeshxdev.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:animeshshaw69@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/animeshog">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=animeshog&label=Profile+Views&style=for-the-badge&color=06B6D4"/>
 
 </div>
 
 ---
 
-## ⚡ About Me
+# ⚡ About Me
 
-```ts
+```typescript
 const animesh = {
-  role: "Full-Stack Developer",
-  building: "CutTheQ",
-  focus: [
-    "React",
-    "React Native",
-    "Node.js",
-    "Artificial Intelligence"
-  ],
-  currentlyLearning: [
-    "System Design",
-    "Cloud Computing",
-    "Scalable Architectures"
-  ],
-  funFact: "Photography inspires the way I build products 📸"
+    role: "Full-Stack Developer",
+    location: "India 🇮🇳",
+
+    currentlyBuilding: "CutTheQ",
+
+    learning: [
+        "React Native",
+        "Artificial Intelligence",
+        "AWS Cloud",
+        "System Design"
+    ],
+
+    interests: [
+        "Backend Development",
+        "Mobile Apps",
+        "Photography"
+    ],
+
+    motto: "Keep Building 🚀"
 }
 ```
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,aws,git,github,vscode,figma&perline=9"/>
 
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=animeshog&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=animeshog&theme=tokyo-night&hide_border=true"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=animeshog&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animeshog&theme=tokyonight"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=animeshog&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
-### **CutTheQ**
+## CutTheQ
 
 > Smart queue management platform designed to eliminate waiting lines through real-time tracking, secure authentication, and seamless digital experiences.
 
-**Stack**
+### ⚙️ Tech Stack
 
 `React` • `Node.js` • `Express` • `MongoDB` • `JWT`
 
 ---
 
-## 🌱 Currently Exploring
+# 🌱 Currently Exploring
 
-- 📱 Cross-Platform Mobile Apps
-- 🤖 AI & Intelligent Systems
+- 📱 React Native
+- 🤖 Artificial Intelligence
 - ☁️ AWS Cloud
 - ⚙️ Backend Architecture
 - 📸 Digital Photography
 
 ---
 
+# 📈 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/animeshog/animeshog/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
 <div align="center">
 
-### *"Great products aren't built by writing more code; they're built by solving the right problems."*
+<a href="mailto:animeshshaw69@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:4F46E5,100:06B6D4"/>
+<a href="https://animeshxdev.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/animeshog">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 *"Code is like photography — the smallest details create the biggest impact."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:4F46E5,100:06B6D4"/>
 
 </div>
