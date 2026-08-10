@@ -6,20 +6,18 @@
 
 ### Full-Stack Developer • React Native Developer • AI Enthusiast • Photographer 📸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React+Native+Developer;AI+Enthusiast;Backend+Developer;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React+Native+Developer;AI+Enthusiast;Backend+Developer;Always+Learning+%F0%9F%9A%80"/>
 
 <br>
 
 <a href="https://animeshxdev.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="mailto:animeshshaw69@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/animeshog">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -28,9 +26,9 @@
 
 </div>
 
----
+<br>
 
-# ⚡ About Me
+## ⚡ About Me
 
 ```ts
 const animesh = {
@@ -41,20 +39,20 @@ const animesh = {
     "React Native",
     "Artificial Intelligence",
     "AWS",
-    "System Design"
+    "System Design",
   ],
   interests: [
     "Backend Development",
     "Mobile Apps",
-    "Photography"
+    "Photography",
   ],
-  motto: "Keep Building 🚀"
-}
+  motto: "Keep Building 🚀",
+};
 ```
 
----
+<br>
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -62,32 +60,38 @@ const animesh = {
 
 </div>
 
----
+<br>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=animeshog&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=animeshog&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshog&theme=tokyonight&hide_border=true"/>
 
+</div>
 
----
+<br>
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
-## CutTheQ
+<div align="center">
 
-> Smart queue management platform designed to eliminate waiting lines through real-time tracking, secure authentication, and seamless digital experiences.
+### 🎫 CutTheQ
 
-### ⚙️ Tech Stack
+*Smart queue management platform designed to eliminate waiting lines through real-time tracking, secure authentication, and seamless digital experiences.*
 
-`React` • `Node.js` • `Express` • `MongoDB` • `JWT`
+`React` `Node.js` `Express` `MongoDB` `JWT`
 
----
+</div>
 
-# 🌱 Currently Exploring
+<br>
+
+## 🌱 Currently Exploring
 
 - 📱 React Native
 - 🤖 Artificial Intelligence
@@ -95,27 +99,25 @@ const animesh = {
 - ⚙️ Backend Architecture
 - 📸 Digital Photography
 
----
+<br>
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://animeshxdev.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="mailto:animeshshaw69@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/animeshog">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
