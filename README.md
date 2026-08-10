@@ -20,7 +20,7 @@ My main focus is **full-stack development, mobile applications, backend engineer
 const animesh = {
   role: "Full-Stack Developer",
   location: "India 🇮🇳",
-  currentlyBuilding: "CutTheQ",
+  currentlyBuilding: "Destiny AI",
   focus: [
     "Full-Stack Development",
     "React Native",
