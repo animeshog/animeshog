@@ -16,7 +16,7 @@
   </a>
 </p>
 
-> **I build things that solve problems — from mobile applications and scalable backends to AI-powered experiences.**
+> **I build things that solve problems — from mobile applications and scalable backends to AI-powered experiences.** <
 
 </div>
 
