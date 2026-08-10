@@ -4,6 +4,8 @@
 
 </div>
 
+<div align="center">
+
 ### Full-Stack Developer · React Native Developer · AI Enthusiast · Photographer 📸
 
 **I build things that solve problems — from mobile applications and scalable backends to AI-powered experiences.**
