@@ -1,8 +1,10 @@
+<div align="center">
+
 # 👋 Hey, I'm Animesh Shaw
 
 ### Full-Stack Developer · React Native Developer · AI Enthusiast · Photographer 📸
 
-<p align="left">
+<p>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -16,41 +18,39 @@
 
 > **I build things that solve problems — from mobile applications and scalable backends to AI-powered experiences.**
 
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
 
+<div align="center">
+
 I'm a developer who enjoys turning ideas into **real, usable products**.
 
-My main focus is building full-stack applications with a strong interest in **mobile development, backend engineering, cloud infrastructure, and artificial intelligence**. I enjoy working across the stack — from designing interfaces to building APIs, databases, authentication systems, and intelligent features.
+My main focus is **full-stack development, mobile applications, backend engineering, cloud infrastructure, and artificial intelligence**.
 
 ```ts
 const animesh = {
   role: "Full-Stack Developer",
   location: "India 🇮🇳",
-
   currentlyBuilding: "CutTheQ",
-
   focus: [
     "Full-Stack Development",
     "React Native",
     "Backend Engineering",
     "Artificial Intelligence",
-    "Cloud & AWS",
+    "AWS & Cloud"
   ],
-
   exploring: [
     "System Design",
     "Scalable Architectures",
-    "AI/ML",
-    "Cloud Infrastructure",
+    "AI/ML"
   ],
-
   hobbies: [
     "Photography 📸",
     "Rapping 🎤",
-    "Building Projects 💻",
+    "Building Projects 💻"
   ],
-
-  philosophy: "Learn → Build → Break → Improve → Repeat 🚀",
+  philosophy: "Learn → Build → Break → Improve → Repeat 🚀"
 };
