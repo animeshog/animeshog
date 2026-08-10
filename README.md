@@ -1,13 +1,9 @@
 <div align="center">
 
 # 👋 Hi, I'm Animesh Shaw
-
 ### Full-Stack Developer • React Native Developer • AI Enthusiast • Photographer 📸
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;React+Native+Developer;AI+Enthusiast;Backend+Developer;Always+Learning+%F0%9F%9A%80"/>
-
 <br>
-
 <a href="https://animeshxdev.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
