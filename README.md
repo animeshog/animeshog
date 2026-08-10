@@ -24,8 +24,6 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center">
-
 I'm a developer who enjoys turning ideas into **real, usable products**.
 
 My main focus is **full-stack development, mobile applications, backend engineering, cloud infrastructure, and artificial intelligence**.
