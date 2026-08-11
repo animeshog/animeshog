@@ -35,7 +35,6 @@ const animesh = {
   ],
   hobbies: [
     "Photography 📸",
-    "Rapping 🎤",
     "Building Projects 💻"
   ],
   philosophy: "Learn → Build → Break → Improve → Repeat 🚀"
