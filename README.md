@@ -13,7 +13,6 @@
 ## 🧑‍💻 About Me
 
 I'm a developer who enjoys turning ideas into **real, usable products**.
-
 My main focus is **full-stack development, mobile applications, backend engineering, cloud infrastructure, and artificial intelligence**.
 
 ```ts
@@ -40,4 +39,9 @@ const animesh = {
   philosophy: "Learn → Build → Break → Improve → Repeat 🚀"
 };
 ```
-<div align="center"> <img src="https://streak-stats.demolab.com?user=animeshog&hide_border=true" /> </div> ```
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=animeshog&hide_border=true" />
+
+</div>
