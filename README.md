@@ -40,8 +40,4 @@ const animesh = {
   philosophy: "Learn → Build → Break → Improve → Repeat 🚀"
 };
 ```
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=animeshshaw&hide_border=true" />
-
-</div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=animeshog&hide_border=true" /> </div> ```
