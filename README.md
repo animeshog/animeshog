@@ -39,9 +39,3 @@ const animesh = {
   philosophy: "Learn → Build → Break → Improve → Repeat 🚀"
 };
 ```
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=animeshog&hide_border=true&v=2" />
-
-</div>
